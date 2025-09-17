@@ -5,9 +5,13 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/app.js",
-    "dev": "echo Iniciando en modo desarrollo"
+    "start": "node src/01-app.js",
+    "dev": "nodemon src/02-app.js",
+    "start:dev": "node src/02-app.js"
   },
   "author": "Edomocar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
