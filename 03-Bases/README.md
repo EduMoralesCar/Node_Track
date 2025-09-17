@@ -1,7 +1,9 @@
 
 <p align="center">
-	<img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js Logo" width="80"/>
+<img width="268" height="305" alt="image" src="https://github.com/user-attachments/assets/c9b99089-571f-4116-8f03-f302e7d58108" />
 </p>
+
+---
 
 # 🚀 Guía Rápida: Ejecución y Nodemon
 
