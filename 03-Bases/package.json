@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/01-app.js",
-    "dev": "nodemon src/02-app.js",
+    "dev": "nodemon src/03-app.js",
     "start:dev": "node src/02-app.js"
   },
   "author": "Edomocar",
