@@ -6,12 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/01-app.js",
-    "dev": "nodemon src/03-app.js",
+    "dev": "nodemon src/05-app.js",
     "start:dev": "node src/02-app.js"
   },
   "author": "Edomocar",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "get-age": "^1.0.1",
+    "uuid": "^13.0.0"
   }
 }
