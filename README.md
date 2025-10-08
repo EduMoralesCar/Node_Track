@@ -44,7 +44,7 @@ Para iniciar el servidor de desarrollo ejecuta:
 npm start
 ```
 
-Por defecto, la aplicación corre en el puerto 3000. Puedes cambiar la configuración en el archivo correspondiente.
+Accede desde tu navegador a `http://localhost:3000` y ¡ya estás listo para explorar!
 
 ---
 
