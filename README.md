@@ -54,17 +54,3 @@ y ¡ya estás listo para explorar!
 Si tienes ideas para mejorar el proyecto o quieres practicar realizando pull requests, ¡no dudes en contribuir! Abre una issue o crea tu pull request.
 
 ---
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT.
-
----
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="120" alt="Node.js Icon"/>
-
-**Explora, aprende y diviértete programando con Node.js 🚀**
-
-</div>
