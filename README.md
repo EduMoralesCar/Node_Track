@@ -48,9 +48,3 @@ Accede desde tu navegador a [http://localhost:3000](http://localhost:3000) <br>
 y ¡ya estás listo para explorar!
 
 ---
-
-## 🤝 Contribuciones
-
-Si tienes ideas para mejorar el proyecto o quieres practicar realizando pull requests, ¡no dudes en contribuir! Abre una issue o crea tu pull request.
-
----
