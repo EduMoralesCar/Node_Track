@@ -1,6 +1,7 @@
 # Node_Track
 
 Node_Track es un proyecto desarrollado en Node.js que sirve como base para aprender y practicar el desarrollo backend con JavaScript. Este repositorio está pensado como un punto de partida para quienes desean explorar la creación de aplicaciones web modernas utilizando las tecnologías del ecosistema Node.js.
+
 ---
 
 ## 💻 ¿Qué puedes encontrar aquí?
