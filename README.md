@@ -37,3 +37,5 @@ npm start
 
 Accede desde tu navegador a [http://localhost:3000](http://localhost:3000) <br>
 y ¡ya estás listo para explorar!
+
+---
