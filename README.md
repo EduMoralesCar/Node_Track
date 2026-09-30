@@ -4,13 +4,13 @@ Node_Track es un proyecto desarrollado en Node.js que sirve como base para apren
 
 ---
 
-## 💻 ¿Qué puedes encontrar aquí?
+## ¿Qué puedes encontrar aquí?
 
 Este proyecto contiene ejemplos de cómo estructurar una API sencilla, manejar rutas y conectar con bases de datos. Es ideal para quienes están empezando en el mundo backend y quieren experimentar con Node.js, Express y otras librerías útiles.
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 Sigue estos pasos para clonar y poner en marcha el proyecto:
 
@@ -27,7 +27,7 @@ npm install
 
 ---
 
-## ▶️ Ejecución
+## Ejecución
 
 Para iniciar el servidor de desarrollo ejecuta:
 
